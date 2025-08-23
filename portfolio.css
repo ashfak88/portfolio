@@ -1,0 +1,135 @@
+* {
+  margin: 0px;
+
+}
+
+.nav-link:hover {
+  color: #6A6B4C;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.nevbar {
+  background-color: #6A6B4C;
+}
+
+.col-md-6 p {
+  font-size: 20px;
+
+}
+
+
+.navbar-nav .nav-link:hover {
+  color: #0a0a08 !important;
+  text-decoration: underline;
+  transition: all 0.3s ease;
+}
+
+
+
+
+.p-4 {
+  background-color: whitesmoke;
+
+
+}
+
+#about {
+  background-color: #A9A9A9;
+  padding: 80px 20px;
+  font-family: 'Arial', sans-serif;
+}
+
+.about-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 40px;
+}
+
+.about-text {
+  flex: 1;
+}
+
+.about-text h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.about-text p {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.about-text .btn {
+  display: inline-block;
+  padding: 10px 25px;
+  background-color: white;
+  color: grey;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.about-text .btn:hover {
+  background-color: grey;
+}
+
+.about-image {
+  flex: 1;
+  text-align: center;
+}
+
+.about-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.cards-4 {
+  display: flex;
+  gap: 150px;
+  margin-left: 60px;
+
+}
+
+.card i {
+  font-size: 200px;
+
+}
+
+.card img {
+  height: 50px;
+  width: 100px;
+}
+
+.cards-2 {}
+
+.love i {
+  margin-top: 30px;
+}
+
+#skill-section {
+  background-color: #6A6B4C;
+}
+
+#hhh {
+  height: 500px;
+}
+
+#contact {
+  color: white;
+  background-color: #878383;
+}
+
+#projects {
+  margin-top: 60px;
+}
